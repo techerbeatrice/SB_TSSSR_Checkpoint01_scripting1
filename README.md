@@ -1,6 +1,6 @@
-# SB_TSSSR_Checkpoint01_scripting1
+# SB_TSSSR_Checkpoint01_scripting
 
-# Version avec interaction utilisateur   configurationReseau.txt   
+## Version avec interaction utilisateur   configurationReseau.txt   
 
 #!/bin/bash   
 
