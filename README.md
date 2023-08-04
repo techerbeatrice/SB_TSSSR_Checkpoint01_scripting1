@@ -5,7 +5,7 @@ configurationReseau.txt
 
 #!/bin/bash   
 
-echo "Rentrer successivement les informations suivantes : Nom du PC, adresse mac, adresse IP :"   
+echo "Vous devez rentrer successivement les informations suivantes : Nom du PC, adresse mac, adresse IP :"   
 read -p "Nom du PC: " nom_pc   
 read -p "Adresse MAC: " adresse_mac   
 read -p "Adresse IP: " adresse_ip   
