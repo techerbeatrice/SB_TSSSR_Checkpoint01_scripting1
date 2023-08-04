@@ -1,4 +1,4 @@
-# SB_TSSSR_Checkpoint01_scripting
+# SB_TSSSR_Checkpoint_scripting
 
 ## Version avec interaction utilisateur    
 configurationReseau.txt   
